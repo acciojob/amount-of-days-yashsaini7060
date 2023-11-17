@@ -9,3 +9,5 @@ function  daysOfAYear(year){
 		alert(365);
 	}
 }
+var year = prompt()
+daysOfAYear(year)
